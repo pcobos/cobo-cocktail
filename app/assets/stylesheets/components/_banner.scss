@@ -1,0 +1,17 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(https://images.unsplash.com/photo-1572184142990-b237959b616a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  padding: 200px 0px;
+  color: white;
+  width: 100%;
+
+  h1 {
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bolder;
+    text-shadow: rgba(0, 0, 0, 0.5);
+  }
+}
